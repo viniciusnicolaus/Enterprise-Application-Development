@@ -34,7 +34,6 @@ public class Teste {
 		em.persist(turma);
 		em.getTransaction().commit();
 		
-		
 		em.close();
 		fabrica.close();
 	}
