@@ -22,12 +22,43 @@ public class Comentario {
 	private int codigo;
 	
 	@Temporal(TemporalType.TIMESTAMP)
-	@Column(name="dt_comentario",nullable=false)
+	@Column(name="dt_comentario", nullable=false)
 	private Calendar dataComentario;
 	
 	@Column(name="ds_conteudo", length = 200, nullable=false)
 	private String descricao;
-	
-	
 
+	public Comentario() {
+		super();
+	}
+
+	public Comentario(Calendar dataComentario, String descricao) {
+		super();
+		this.dataComentario = dataComentario;
+		this.descricao = descricao;
+	}
+
+	public int getCodigo() {
+		return codigo;
+	}
+
+	public void setCodigo(int codigo) {
+		this.codigo = codigo;
+	}
+
+	public Calendar getDataComentario() {
+		return dataComentario;
+	}
+
+	public void setDataComentario(Calendar dataComentario) {
+		this.dataComentario = dataComentario;
+	}
+
+	public String getDescricao() {
+		return descricao;
+	}
+
+	public void setDescricao(String descricao) {
+		this.descricao = descricao;
+	}
 }
