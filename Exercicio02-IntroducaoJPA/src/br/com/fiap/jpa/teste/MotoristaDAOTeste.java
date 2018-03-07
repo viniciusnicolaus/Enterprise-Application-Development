@@ -61,8 +61,5 @@ public class MotoristaDAOTeste {
 		
 		em.close();
 		fabrica.close();
-		
-
 	}
-
 }

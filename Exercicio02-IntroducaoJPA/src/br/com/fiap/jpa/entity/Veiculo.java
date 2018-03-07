@@ -25,6 +25,9 @@ public class Veiculo {
 	@Column(name="nr_ano")
 	private int numeroAno;	//nr_ano
 	
+	public Veiculo() {
+		
+	}
 	public Veiculo(String descricaoPlaca, String descricaoCor, int numeroAno) {
 		super();
 		this.descricaoPlaca = descricaoPlaca;
