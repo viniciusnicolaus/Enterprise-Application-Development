@@ -47,7 +47,7 @@ public class EmpresaDAOTeste {
 		}
 		//Remover
 		try {
-			dao.excluir(2);
+			dao.excluir("123");
 			dao.commit();
 			System.out.println("Apagado com sucesso");
 		} catch (RegistradoNaoEncontradoException e) {
@@ -57,8 +57,6 @@ public class EmpresaDAOTeste {
 		}
 	
 		em.close();
-		fabrica.close();
-		
+		fabrica.close();	
 	}
-
 }

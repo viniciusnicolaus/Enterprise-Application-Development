@@ -6,7 +6,7 @@ import br.com.fiap.jpa.dao.EmpresaDAO;
 import br.com.fiap.jpa.entity.Empresa;
 
 public class EmpresaDAOImpl
-				extends GenericDAOImpl<Empresa, Integer>
+				extends GenericDAOImpl<Empresa, String>
 									implements EmpresaDAO{
 
 	public EmpresaDAOImpl(EntityManager em) {
