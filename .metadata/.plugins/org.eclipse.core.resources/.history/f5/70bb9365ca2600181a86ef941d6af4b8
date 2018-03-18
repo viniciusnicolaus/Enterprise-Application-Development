@@ -1,0 +1,34 @@
+package br.com.fiap.jpa.teste;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+
+import br.com.fiap.dao.impl.TecnicoDAOImpl;
+import br.com.fiap.dao.impl.TimeDAOImpl;
+import br.com.fiap.jpa.dao.TecnicoDAO;
+import br.com.fiap.jpa.dao.TimeDAO;
+import br.com.fiap.jpa.entity.Time;
+import br.com.fiap.jpa.singleton.EntityManagerFactorySingleton;
+
+public class BuscaTeste {
+	
+	public static void main(String[] args) {
+		EntityManagerFactory fabrica = EntityManagerFactorySingleton.getInstance();
+		EntityManager em = fabrica.createEntityManager();
+		
+		TimeDAO timeDao = new TimeDAOImpl(em);
+		TecnicoDAO tecnicoDao = new TecnicoDAOImpl(em);
+		
+		Time time = new Time();
+		
+		//Buscar o time
+		timeDao.buscar(2);
+		
+		// exibir o nome do time
+		time.getNome();
+		
+		//exibir o nome do tecnico
+		time.getTecnico().getNome();
+	}
+
+}

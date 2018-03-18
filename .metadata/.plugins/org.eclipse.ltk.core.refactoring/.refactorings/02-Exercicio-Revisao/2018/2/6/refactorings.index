@@ -1,0 +1,7 @@
+1517919422359	Rename package 'br.com.fiap.beans'
+1517919997162	Encapsulate field 'agencia'
+1517920002221	Encapsulate field 'numero'
+1517920019159	Encapsulate field 'dataAbertura'
+1517920023848	Encapsulate field 'saldo'
+1517923164241	Encapsulate field 'tipo'
+1517923784716	Encapsulate field 'taxa'

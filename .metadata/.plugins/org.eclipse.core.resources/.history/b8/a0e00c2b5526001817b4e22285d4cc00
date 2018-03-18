@@ -1,0 +1,12 @@
+package br.com.fiap.jpa.teste;
+
+import javax.persistence.EntityManagerFactory;
+
+public class PagamentoDAOTeste {
+
+	public static void main(String[] args) {
+		EntityManagerFactory fabrica = EntityManagerFactory.
+
+	}
+
+}

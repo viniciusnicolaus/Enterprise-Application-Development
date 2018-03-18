@@ -1,0 +1,13 @@
+package br.com.fiap.jpa.teste;
+
+public class BuscaTeste {
+	
+	public static void main(String[] args) {
+		//Buscar o time
+		
+		// exibir o nome do time
+		
+		//exibir o nome do tecnico
+	}
+
+}

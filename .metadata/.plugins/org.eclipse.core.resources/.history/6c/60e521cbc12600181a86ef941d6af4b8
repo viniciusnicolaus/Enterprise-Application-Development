@@ -1,0 +1,15 @@
+package br.com.fiap.jpa.entity;
+
+public class Time {
+	
+	private int codigo;
+	
+	private String nome;
+	
+	private long numeroSocios;
+
+
+	
+	
+
+}

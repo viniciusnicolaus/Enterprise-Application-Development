@@ -1,0 +1,13 @@
+package br.com.fiap.jpa.entity;
+
+public class Joador {
+	
+	private int codigo;
+	
+	private String nome;
+	
+	private double salario;
+	
+	private Posicao posicao;
+
+}

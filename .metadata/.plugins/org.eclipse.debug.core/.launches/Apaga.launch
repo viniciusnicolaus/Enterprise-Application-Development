@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Exercicio02-IntroducaoJPA/src/br/com/fiap/jpa/teste/Apaga.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="br.com.fiap.jpa.teste.Apaga"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Exercicio02-IntroducaoJPA"/>
+</launchConfiguration>

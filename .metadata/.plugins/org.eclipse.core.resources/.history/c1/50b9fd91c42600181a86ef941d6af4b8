@@ -1,0 +1,7 @@
+package br.com.fiap.dao.impl;
+
+import br.com.fiap.jpa.entity.Time;
+
+public class TimeDAOImpl extends GenericDAOImpl<Time, Integer> implements TimeDAO{
+
+}

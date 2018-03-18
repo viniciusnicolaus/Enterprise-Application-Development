@@ -1,0 +1,21 @@
+package br.com.fiap.jpa.teste;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+
+import br.com.fiap.dao.PagamentoDAO;
+import br.com.fiap.dao.impl.PagamentoDAOImpl;
+import br.com.fiap.jpa.singleton.EntityManagerFactorySingleton;
+
+public class PagamentoDAOTeste {
+
+	public static void main(String[] args) {
+		EntityManagerFactory fabrica = EntityManagerFactorySingleton.getInstance();
+		
+		EntityManager em = fabrica.createEntityManager();
+		
+		PagamentoDAO dao = new PagamentoDAOImpl(em);
+
+	}
+
+}
