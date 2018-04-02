@@ -14,7 +14,7 @@ import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 
 @Entity
-@Table
+@Table(name="T_JOGADOR")
 @SequenceGenerator(name="jogador", sequenceName="SQ_T_JOGADOR", allocationSize=1)
 public class Jogador {
 	
@@ -37,6 +37,18 @@ public class Jogador {
 	@JoinColumn(name="cd_time")
 	private Time time;
 	
+	
+	public Jogador() {
+		super();
+	}
+
+	public Jogador(String nome, double salario, Posicao posicao) {
+		super();
+		this.nome = nome;
+		this.salario = salario;
+		this.posicao = posicao;
+	}
+
 	public int getCodigo() {
 		return codigo;
 	}

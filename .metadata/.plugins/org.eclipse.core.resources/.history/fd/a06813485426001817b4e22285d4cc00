@@ -1,8 +1,0 @@
-package br.com.fiap.dao;
-
-import br.com.fiap.jpa.dao.GenericDAO;
-import br.com.fiap.jpa.entity.Empresa;
-
-public interface PagamentoDAO extends GenericDAO<Empresa, String>{
-
-}
