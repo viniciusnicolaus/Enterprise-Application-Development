@@ -17,6 +17,7 @@ public class BuscaTeste {
 		EntityManager em = fabrica.createEntityManager();
 		
 		TimeDAO timeDao = new TimeDAOImpl(em);
+		@SuppressWarnings("unused")
 		TecnicoDAO tecnicoDao = new TecnicoDAOImpl(em);
 		
 		//Buscar o time

@@ -24,6 +24,8 @@ public class CadastroTeste {
 		EntityManager em = fabrica.createEntityManager();
 		
 		TimeDAO timeDao = new TimeDAOImpl(em);
+		
+		@SuppressWarnings("unused")
 		TecnicoDAO tecnicoDao = new TecnicoDAOImpl(em);
 		
 		

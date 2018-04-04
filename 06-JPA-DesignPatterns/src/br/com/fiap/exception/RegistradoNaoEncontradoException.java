@@ -2,6 +2,11 @@ package br.com.fiap.exception;
 
 public class RegistradoNaoEncontradoException extends Exception {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public RegistradoNaoEncontradoException() {
 		// TODO Auto-generated constructor stub
 	}

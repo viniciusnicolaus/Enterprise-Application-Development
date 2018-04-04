@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.lang.reflect.Field"/>
-<fullyQualifiedTypeName name="br.com.fiap.anotation.Coluna"/>
-<fullyQualifiedTypeName name="br.com.fiap.anotation.Tabela"/>
-<fullyQualifiedTypeName name="java.lang.reflect.Type"/>
-<fullyQualifiedTypeName name="java.beans.Transient"/>
-<fullyQualifiedTypeName name="javax.persistence.Transient"/>
-<fullyQualifiedTypeName name="javax.persistence.TemporalType"/>
-<fullyQualifiedTypeName name="javax.persistence.EnumType"/>
-<fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Aluno"/>
-<fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Unidade"/>
-<fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Periodo"/>
-<fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Turma"/>
-<fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Editora"/>
 <fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Livro"/>
 <fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Autor"/>
 <fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Sexo"/>
@@ -36,7 +23,6 @@
 <fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Motorista"/>
 <fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Genero"/>
 <fullyQualifiedTypeName name="br.com.fiap.jpa.singleton.EntityManagerFactorySingleton"/>
-<fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
 <fullyQualifiedTypeName name="br.com.fiap.dao.PagamentoDAO"/>
 <fullyQualifiedTypeName name="br.com.fiap.dao.impl.PagamentoDAOImpl"/>
 <fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Pagamento"/>
@@ -60,4 +46,18 @@
 <fullyQualifiedTypeName name="javax.persistence.Column"/>
 <fullyQualifiedTypeName name="br.com.fiap.dao.GenericDAO"/>
 <fullyQualifiedTypeName name="br.com.fiap.dao.impl.GenericDAOImpl"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.EntityManagerFactorySingleton"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.CidadeDAO"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.impl.CidadeDAOImpl"/>
+<fullyQualifiedTypeName name="org.hibernate.query.QueryParameter"/>
+<fullyQualifiedTypeName name="br.com.fiap.entity.Cliente"/>
+<fullyQualifiedTypeName name="br.com.fiap.entity.Pacote"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.PacoteDAO"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.impl.PacoteDAOImpl"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.persistence.TypedQuery"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.impl.TransporteDAOImpl"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.TransporteDAO"/>
+<fullyQualifiedTypeName name="br.com.fiap.entity.Transporte"/>
 </qualifiedTypeNameHistroy>
