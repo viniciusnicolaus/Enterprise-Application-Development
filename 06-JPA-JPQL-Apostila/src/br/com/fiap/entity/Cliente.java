@@ -10,11 +10,14 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToMany;
+import javax.persistence.NamedQuery;
 import javax.persistence.OneToOne;
 import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
+
+@NamedQuery(name="Cliente.maiorNumeroReserva", query="select count(r.cliente.id) from Reserva r group by r.cliente.id")
 
 @Entity
 @Table(name="JPA_T_CLIENTE")

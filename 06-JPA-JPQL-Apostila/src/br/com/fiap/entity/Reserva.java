@@ -9,10 +9,14 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
+import javax.persistence.NamedQuery;
 import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
+
+@NamedQuery(name="Reserva.contarQuantidade",query="select count(r) from Reserva r where r.cliente = :c")
+
 
 @Entity
 @Table(name="JPA_T_RESERVA")

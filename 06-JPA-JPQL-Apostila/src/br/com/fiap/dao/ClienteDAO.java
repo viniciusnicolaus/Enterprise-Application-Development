@@ -6,6 +6,8 @@ import br.com.fiap.entity.Cliente;
 
 public interface ClienteDAO extends GenericDAO<Cliente,Integer>{
 	
+	long contarTotal();
+	
 	List<Cliente> listar();
 	
 	List<Cliente> listarClientesPorEstado(String estado);
@@ -16,4 +18,10 @@ public interface ClienteDAO extends GenericDAO<Cliente,Integer>{
 	
 	List<Cliente> buscar(String nome, String cidade);
 	
+	List<Cliente> buscarPorEstados(List<String> estados);
+	
+	//Contar a quantidade de cliente por estado
+	long contarPorEstado(String uf);
+	
+	long maiorNumeroReserva();
 }
