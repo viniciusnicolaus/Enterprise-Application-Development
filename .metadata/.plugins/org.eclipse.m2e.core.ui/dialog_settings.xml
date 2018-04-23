@@ -44,6 +44,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="04-Exercicio-JPQL"/>
 			<item value="Exercicio02-IntroducaoJPA"/>
 			<item value="05-JPA-API"/>
 			<item value="Exercicio01-IntroducaoJPA"/>
@@ -53,6 +54,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="04-Exercicio-JPQL"/>
 			<item value="Exercicio02-IntroducaoJPA"/>
 			<item value="05-JPA-API"/>
 			<item value="Exercicio01-IntroducaoJPA"/>
@@ -65,6 +67,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="F:\Enterprise Application Development\03-Exercicio-Relacionamentos"/>
 			<item value="E:\Enterprise Application Development\Exercicio01-IntroducaoJPA"/>
 			<item value="E:\Enterprise Application Development\01-Revisao"/>
 		</list>
