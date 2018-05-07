@@ -35,7 +35,7 @@
 			<artifactId>ojdbc8</artifactId>
 			<version>8</version>
 			<scope>system</scope>
-			<systemPath>D:/ojdbc8.jar</systemPath>
+			<systemPath>C:/ojdbc8.jar</systemPath>
 		</dependency>
 	</dependencies>
 </project>

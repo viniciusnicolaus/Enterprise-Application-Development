@@ -11167,3 +11167,655 @@ org.eclipse.core.runtime.CoreException: Launch configuration Consulta references
 2018-04-22 21:41:31,429 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-04-22 21:41:31,436 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-04-22 21:41:31,458 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-Exercicio-JPQL\src\test\resources
+2018-04-23 16:17:08,137 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-23 16:17:54,905 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:17:56,063 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 16:17:57,096 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:17:57,494 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-04-23 16:18:05,041 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:05,163 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 16:18:05,576 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:05,631 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-Exercicio-JPQL\src\test\resources
+2018-04-23 16:18:07,606 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:07,981 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\main\resources
+2018-04-23 16:18:07,982 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:08,024 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\test\resources
+2018-04-23 16:18:23,805 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:24,403 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\main\resources
+2018-04-23 16:18:24,404 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:25,393 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\test\resources
+2018-04-23 16:18:27,318 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:27,761 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\main\resources
+2018-04-23 16:18:27,765 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:27,794 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\test\resources
+2018-04-23 16:18:29,872 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:30,037 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\main\resources
+2018-04-23 16:18:30,044 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:30,377 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\test\resources
+2018-04-23 16:18:34,324 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:34,811 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\main\resources
+2018-04-23 16:18:34,819 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:35,813 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\test\resources
+2018-04-23 16:18:40,533 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:42,581 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\main\resources
+2018-04-23 16:18:42,604 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:42,937 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\test\resources
+2018-04-23 16:18:43,647 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:43,742 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\main\resources
+2018-04-23 16:18:43,763 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:44,433 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\test\resources
+2018-04-23 16:18:46,998 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:48,330 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\main\resources
+2018-04-23 16:18:48,331 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:48,364 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\test\resources
+2018-04-23 16:18:53,015 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:53,049 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\main\resources
+2018-04-23 16:18:53,060 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:18:53,088 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\test\resources
+2018-04-23 16:35:27,495 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 01-Exercicio-IntroducaoJPA:01-Exercicio-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\03-Exercicio-Relacionamentos\pom.xml.
+2018-04-23 16:35:28,628 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:35:28,652 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 16:35:28,659 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:35:28,681 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-04-23 16:35:46,676 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:35:46,821 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 16:35:46,955 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:35:46,979 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-04-23 16:35:51,250 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 01-Exercicio-IntroducaoJPA:01-Exercicio-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\03-Exercicio-Relacionamentos\pom.xml.
+2018-04-23 16:35:52,099 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:35:52,434 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 16:35:52,442 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:35:52,777 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-04-23 16:36:27,453 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-23 16:36:27,869 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 01-Exercicio-IntroducaoJPA:01-Exercicio-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\03-Exercicio-Relacionamentos\pom.xml.
+2018-04-23 16:36:28,611 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /03-Exercicio-Relacionamentos/src
+2018-04-23 16:36:28,618 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /03-Exercicio-Relacionamentos/src overlaps with sources folder /03-Exercicio-Relacionamentos/src
+2018-04-23 16:36:28,624 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /03-Exercicio-Relacionamentos/src/test/java because it overlaps with /03-Exercicio-Relacionamentos/src
+2018-04-23 16:36:30,322 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-04-23 16:36:32,505 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:36:32,730 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 16:36:32,793 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 16:36:32,861 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-04-23 17:21:37,756 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 01-Exercicio-IntroducaoJPA:01-Exercicio-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\04-Exercicio-JPQL\pom.xml.
+2018-04-23 17:21:38,418 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:21:38,445 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 17:21:38,453 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:21:38,471 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-Exercicio-JPQL\src\test\resources
+2018-04-23 17:21:43,602 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:21:43,631 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 17:21:43,744 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:21:43,783 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-Exercicio-JPQL\src\test\resources
+2018-04-23 17:21:45,307 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:21:45,331 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 17:21:45,340 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:21:45,364 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-Exercicio-JPQL\src\test\resources
+2018-04-23 17:21:55,720 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 04-JPA-Introcucao:04-JPA-Introcucao:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\04-JPA-Introcucao\pom.xml.
+2018-04-23 17:21:56,571 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:21:56,596 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\main\resources
+2018-04-23 17:21:56,602 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:21:56,625 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\test\resources
+2018-04-23 17:22:00,391 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:00,419 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\main\resources
+2018-04-23 17:22:00,426 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:00,450 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\test\resources
+2018-04-23 17:22:28,007 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 05-JPA-API:05-JPA-API:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\05-JPA-API\pom.xml.
+2018-04-23 17:22:28,794 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:28,820 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\main\resources
+2018-04-23 17:22:28,852 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:28,876 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\test\resources
+2018-04-23 17:22:31,993 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:32,225 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\main\resources
+2018-04-23 17:22:32,225 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:32,243 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\test\resources
+2018-04-23 17:22:45,103 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-DesignPatterns:06-JPA-DesignPatterns:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\06-JPA-DesignPatterns\pom.xml.
+2018-04-23 17:22:45,685 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:45,710 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\main\resources
+2018-04-23 17:22:45,719 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:45,741 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\test\resources
+2018-04-23 17:22:48,985 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:49,249 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\main\resources
+2018-04-23 17:22:49,250 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:49,274 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\test\resources
+2018-04-23 17:22:54,009 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-JPQL-Apostila:06-JPA-JPQL-Apostila:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\06-JPA-JPQL-Apostila\pom.xml.
+2018-04-23 17:22:54,776 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:54,802 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\main\resources
+2018-04-23 17:22:54,808 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:54,824 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\test\resources
+2018-04-23 17:22:59,063 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:59,084 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\main\resources
+2018-04-23 17:22:59,092 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:22:59,788 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\test\resources
+2018-04-23 17:23:06,717 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Exercicio01-IntroducaoJPA:Exercicio01-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\pom.xml.
+2018-04-23 17:23:07,714 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:07,741 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\main\resources
+2018-04-23 17:23:07,747 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:08,020 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\test\resources
+2018-04-23 17:23:10,001 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:10,028 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\main\resources
+2018-04-23 17:23:10,035 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:10,058 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\test\resources
+2018-04-23 17:23:17,357 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 07-JPA-Relacionamentos:07-JPA-Relacionamentos:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\07-JPA-Relacionamentos\pom.xml.
+2018-04-23 17:23:18,164 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:18,191 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\main\resources
+2018-04-23 17:23:18,198 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:18,215 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\test\resources
+2018-04-23 17:23:23,044 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:23,261 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\main\resources
+2018-04-23 17:23:23,262 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:23,281 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\test\resources
+2018-04-23 17:23:36,994 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Exercicio02-IntroducaoJPA:Exercicio02-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\Exercicio02-Design Patterns\pom.xml.
+2018-04-23 17:23:37,750 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:37,779 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\main\resources
+2018-04-23 17:23:37,788 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:37,813 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\test\resources
+2018-04-23 17:23:41,668 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:41,857 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\main\resources
+2018-04-23 17:23:41,859 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:41,881 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\test\resources
+2018-04-23 17:23:46,609 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-DesignPatterns:06-JPA-DesignPatterns:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\JPA-MapeamentoAvancado\pom.xml.
+2018-04-23 17:23:47,171 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:47,200 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\main\resources
+2018-04-23 17:23:47,207 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:47,223 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\test\resources
+2018-04-23 17:23:51,612 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:51,636 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\main\resources
+2018-04-23 17:23:51,643 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:51,956 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\test\resources
+2018-04-23 17:23:56,267 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 07-JPA-Relacionamentos:07-JPA-Relacionamentos:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\pom.xml.
+2018-04-23 17:23:57,080 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:57,104 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\main\resources
+2018-04-23 17:23:57,110 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:23:57,132 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\test\resources
+2018-04-23 17:24:01,138 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:24:01,383 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\main\resources
+2018-04-23 17:24:01,390 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:24:01,412 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\test\resources
+2018-04-23 17:24:06,030 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-23 17:24:07,206 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 01-Exercicio-IntroducaoJPA:01-Exercicio-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\03-Exercicio-Relacionamentos\pom.xml.
+2018-04-23 17:24:07,456 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 01-Exercicio-IntroducaoJPA:01-Exercicio-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\04-Exercicio-JPQL\pom.xml.
+2018-04-23 17:24:07,829 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 04-JPA-Introcucao:04-JPA-Introcucao:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\04-JPA-Introcucao\pom.xml.
+2018-04-23 17:24:07,957 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 05-JPA-API:05-JPA-API:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\05-JPA-API\pom.xml.
+2018-04-23 17:24:08,095 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-DesignPatterns:06-JPA-DesignPatterns:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\06-JPA-DesignPatterns\pom.xml.
+2018-04-23 17:24:08,258 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-JPQL-Apostila:06-JPA-JPQL-Apostila:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\06-JPA-JPQL-Apostila\pom.xml.
+2018-04-23 17:24:08,381 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 07-JPA-Relacionamentos:07-JPA-Relacionamentos:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\07-JPA-Relacionamentos\pom.xml.
+2018-04-23 17:24:08,461 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Exercicio01-IntroducaoJPA:Exercicio01-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\pom.xml.
+2018-04-23 17:24:08,542 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Exercicio02-IntroducaoJPA:Exercicio02-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\Exercicio02-Design Patterns\pom.xml.
+2018-04-23 17:24:08,625 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-DesignPatterns:06-JPA-DesignPatterns:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\JPA-MapeamentoAvancado\pom.xml.
+2018-04-23 17:24:08,731 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 07-JPA-Relacionamentos:07-JPA-Relacionamentos:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\pom.xml.
+2018-04-23 17:24:12,453 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /03-Exercicio-Relacionamentos/src
+2018-04-23 17:24:12,458 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /03-Exercicio-Relacionamentos/src overlaps with sources folder /03-Exercicio-Relacionamentos/src
+2018-04-23 17:24:12,465 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /03-Exercicio-Relacionamentos/src/test/java because it overlaps with /03-Exercicio-Relacionamentos/src
+2018-04-23 17:24:13,452 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-Exercicio-JPQL/src
+2018-04-23 17:24:13,453 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /04-Exercicio-JPQL/src overlaps with sources folder /04-Exercicio-JPQL/src
+2018-04-23 17:24:13,459 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /04-Exercicio-JPQL/src/test/java because it overlaps with /04-Exercicio-JPQL/src
+2018-04-23 17:24:14,111 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-JPA-Introcucao/src
+2018-04-23 17:24:14,117 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /04-JPA-Introcucao/src/test/java because it overlaps with /04-JPA-Introcucao/src
+2018-04-23 17:24:15,389 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05-JPA-API/src
+2018-04-23 17:24:15,422 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /05-JPA-API/src/test/java because it overlaps with /05-JPA-API/src
+2018-04-23 17:24:16,837 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-JPA-DesignPatterns/src
+2018-04-23 17:24:16,868 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /06-JPA-DesignPatterns/src/test/java because it overlaps with /06-JPA-DesignPatterns/src
+2018-04-23 17:24:17,693 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-JPA-JPQL-Apostila/src
+2018-04-23 17:24:17,701 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /06-JPA-JPQL-Apostila/src/test/java because it overlaps with /06-JPA-JPQL-Apostila/src
+2018-04-23 17:24:18,690 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-JPA-Relacionamentos/src
+2018-04-23 17:24:18,697 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /07-JPA-Relacionamentos/src/test/java because it overlaps with /07-JPA-Relacionamentos/src
+2018-04-23 17:24:19,324 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Exercicio01-IntroducaoJPA/src
+2018-04-23 17:24:19,399 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Exercicio01-IntroducaoJPA/src/test/java because it overlaps with /Exercicio01-IntroducaoJPA/src
+2018-04-23 17:24:20,848 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Exercicio02-Design Patterns/src
+2018-04-23 17:24:21,218 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Exercicio02-Design Patterns/src/test/java because it overlaps with /Exercicio02-Design Patterns/src
+2018-04-23 17:24:21,858 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JPA-MapeamentoAvancado/src
+2018-04-23 17:24:21,864 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JPA-MapeamentoAvancado/src/test/java because it overlaps with /JPA-MapeamentoAvancado/src
+2018-04-23 17:24:24,108 [Worker-25] WARN  o.e.m.c.p.c.AbstractLifecycleMapping - Could not update project JPA-MapeamentoAvancado configuration
+org.eclipse.core.runtime.AssertionFailedException: null argument:
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:85) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:73) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.expressions.EvaluationContext.addVariable(EvaluationContext.java:105) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.internal.LibraryProvider.isEnabledFor(LibraryProvider.java:273) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.LibraryInstallDelegate.refresh(LibraryInstallDelegate.java:364) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.LibraryInstallDelegate.reset(LibraryInstallDelegate.java:450) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.LibraryInstallDelegate.<init>(LibraryInstallDelegate.java:138) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.buildDefaultLibraryProvider(JpaFacetDataModelProvider.java:237) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.getDefaultLibraryProvider(JpaFacetDataModelProvider.java:209) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.getDefaultProperty(JpaFacetDataModelProvider.java:174) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetInstallDataModelProvider.getDefaultProperty(JpaFacetInstallDataModelProvider.java:84) ~[na:na]
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelImpl.getProperty(DataModelImpl.java:130) ~[na:na]
+	at org.eclipse.wst.common.frameworks.datamodel.AbstractDataModelProvider.getProperty(AbstractDataModelProvider.java:218) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.getLibraryInstallDelegate(JpaFacetDataModelProvider.java:111) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.adjustLibraryProviders(JpaFacetDataModelProvider.java:391) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.propertySet(JpaFacetDataModelProvider.java:295) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetInstallDataModelProvider.propertySet(JpaFacetInstallDataModelProvider.java:143) ~[na:na]
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelImpl.internalSetProperty(DataModelImpl.java:182) ~[na:na]
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelImpl.setProperty(DataModelImpl.java:172) ~[na:na]
+	at org.eclipse.wst.common.componentcore.datamodel.FacetDataModelConfigAdapter.setProjectFacetVersion(FacetDataModelConfigAdapter.java:42) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.bindProjectFacetActionConfig(FacetedProjectWorkingCopy.java:1529) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.createProjectFacetAction(FacetedProjectWorkingCopy.java:1464) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.refreshProjectFacetActions(FacetedProjectWorkingCopy.java:1558) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.setProjectFacets(FacetedProjectWorkingCopy.java:777) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.addProjectFacet(FacetedProjectWorkingCopy.java:807) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:301) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configureFacets(JpaProjectConfigurator.java:152) ~[na:na]
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:108) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:508) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:439) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:352) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:349) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-04-23 17:24:24,535 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JPA-Relacionamento-Exercicio/src
+2018-04-23 17:24:24,542 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JPA-Relacionamento-Exercicio/src/test/java because it overlaps with /JPA-Relacionamento-Exercicio/src
+2018-04-23 17:24:47,406 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 41 sec
+2018-04-23 17:24:55,042 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:24:55,242 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 17:24:55,323 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:24:55,350 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-04-23 17:24:58,307 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:24:58,653 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 17:24:58,739 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:24:58,765 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-Exercicio-JPQL\src\test\resources
+2018-04-23 17:24:59,733 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:24:59,759 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\main\resources
+2018-04-23 17:24:59,772 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:24:59,798 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\test\resources
+2018-04-23 17:25:02,068 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:02,093 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\main\resources
+2018-04-23 17:25:02,094 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:02,120 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\test\resources
+2018-04-23 17:25:05,638 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:05,979 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\main\resources
+2018-04-23 17:25:05,986 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:06,010 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\test\resources
+2018-04-23 17:25:09,126 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:09,155 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\main\resources
+2018-04-23 17:25:09,161 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:09,497 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\test\resources
+2018-04-23 17:25:11,772 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:12,414 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\main\resources
+2018-04-23 17:25:12,415 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:12,437 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\test\resources
+2018-04-23 17:25:13,936 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:13,962 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\main\resources
+2018-04-23 17:25:13,969 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:13,991 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\test\resources
+2018-04-23 17:25:16,853 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:16,943 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\main\resources
+2018-04-23 17:25:16,944 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:17,592 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\test\resources
+2018-04-23 17:25:19,560 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:19,635 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\main\resources
+2018-04-23 17:25:19,642 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:19,668 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\test\resources
+2018-04-23 17:25:21,323 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:21,657 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\main\resources
+2018-04-23 17:25:21,658 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:25:21,683 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\test\resources
+2018-04-23 17:29:49,866 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-23 17:35:16,321 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:35:16,361 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 17:35:16,460 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:35:16,489 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-04-23 17:35:24,050 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-23 17:35:25,398 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 01-Exercicio-IntroducaoJPA:01-Exercicio-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\03-Exercicio-Relacionamentos\pom.xml.
+2018-04-23 17:35:25,564 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 01-Exercicio-IntroducaoJPA:01-Exercicio-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\04-Exercicio-JPQL\pom.xml.
+2018-04-23 17:35:25,896 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 04-JPA-Introcucao:04-JPA-Introcucao:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\04-JPA-Introcucao\pom.xml.
+2018-04-23 17:35:26,015 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 05-JPA-API:05-JPA-API:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\05-JPA-API\pom.xml.
+2018-04-23 17:35:26,129 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-DesignPatterns:06-JPA-DesignPatterns:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\06-JPA-DesignPatterns\pom.xml.
+2018-04-23 17:35:26,317 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-JPQL-Apostila:06-JPA-JPQL-Apostila:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\06-JPA-JPQL-Apostila\pom.xml.
+2018-04-23 17:35:26,456 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 07-JPA-Relacionamentos:07-JPA-Relacionamentos:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\07-JPA-Relacionamentos\pom.xml.
+2018-04-23 17:35:26,626 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Exercicio01-IntroducaoJPA:Exercicio01-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\pom.xml.
+2018-04-23 17:35:26,716 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Exercicio02-IntroducaoJPA:Exercicio02-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\Exercicio02-Design Patterns\pom.xml.
+2018-04-23 17:35:26,849 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-DesignPatterns:06-JPA-DesignPatterns:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\JPA-MapeamentoAvancado\pom.xml.
+2018-04-23 17:35:26,929 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 07-JPA-Relacionamentos:07-JPA-Relacionamentos:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\pom.xml.
+2018-04-23 17:35:30,663 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /03-Exercicio-Relacionamentos/src
+2018-04-23 17:35:30,664 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /03-Exercicio-Relacionamentos/src overlaps with sources folder /03-Exercicio-Relacionamentos/src
+2018-04-23 17:35:30,665 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /03-Exercicio-Relacionamentos/src/test/java because it overlaps with /03-Exercicio-Relacionamentos/src
+2018-04-23 17:35:31,848 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-Exercicio-JPQL/src
+2018-04-23 17:35:31,864 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /04-Exercicio-JPQL/src overlaps with sources folder /04-Exercicio-JPQL/src
+2018-04-23 17:35:31,872 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /04-Exercicio-JPQL/src/test/java because it overlaps with /04-Exercicio-JPQL/src
+2018-04-23 17:35:32,865 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-JPA-Introcucao/src
+2018-04-23 17:35:32,872 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /04-JPA-Introcucao/src/test/java because it overlaps with /04-JPA-Introcucao/src
+2018-04-23 17:35:34,449 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05-JPA-API/src
+2018-04-23 17:35:34,459 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /05-JPA-API/src/test/java because it overlaps with /05-JPA-API/src
+2018-04-23 17:35:36,187 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-JPA-DesignPatterns/src
+2018-04-23 17:35:36,237 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /06-JPA-DesignPatterns/src/test/java because it overlaps with /06-JPA-DesignPatterns/src
+2018-04-23 17:35:37,293 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-JPA-JPQL-Apostila/src
+2018-04-23 17:35:37,314 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /06-JPA-JPQL-Apostila/src/test/java because it overlaps with /06-JPA-JPQL-Apostila/src
+2018-04-23 17:35:38,737 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-JPA-Relacionamentos/src
+2018-04-23 17:35:38,745 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /07-JPA-Relacionamentos/src/test/java because it overlaps with /07-JPA-Relacionamentos/src
+2018-04-23 17:35:39,974 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Exercicio01-IntroducaoJPA/src
+2018-04-23 17:35:39,984 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Exercicio01-IntroducaoJPA/src/test/java because it overlaps with /Exercicio01-IntroducaoJPA/src
+2018-04-23 17:35:40,297 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Exercicio02-Design Patterns/src
+2018-04-23 17:35:40,304 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Exercicio02-Design Patterns/src/test/java because it overlaps with /Exercicio02-Design Patterns/src
+2018-04-23 17:35:40,923 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JPA-MapeamentoAvancado/src
+2018-04-23 17:35:40,931 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JPA-MapeamentoAvancado/src/test/java because it overlaps with /JPA-MapeamentoAvancado/src
+2018-04-23 17:35:41,502 [Worker-26] WARN  o.e.m.c.p.c.AbstractLifecycleMapping - Could not update project JPA-MapeamentoAvancado configuration
+org.eclipse.core.runtime.AssertionFailedException: null argument:
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:85) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:73) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.expressions.EvaluationContext.addVariable(EvaluationContext.java:105) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.internal.LibraryProvider.isEnabledFor(LibraryProvider.java:273) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.LibraryInstallDelegate.refresh(LibraryInstallDelegate.java:364) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.LibraryInstallDelegate.reset(LibraryInstallDelegate.java:450) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.LibraryInstallDelegate.<init>(LibraryInstallDelegate.java:138) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.buildDefaultLibraryProvider(JpaFacetDataModelProvider.java:237) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.getDefaultLibraryProvider(JpaFacetDataModelProvider.java:209) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.getDefaultProperty(JpaFacetDataModelProvider.java:174) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetInstallDataModelProvider.getDefaultProperty(JpaFacetInstallDataModelProvider.java:84) ~[na:na]
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelImpl.getProperty(DataModelImpl.java:130) ~[na:na]
+	at org.eclipse.wst.common.frameworks.datamodel.AbstractDataModelProvider.getProperty(AbstractDataModelProvider.java:218) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.getLibraryInstallDelegate(JpaFacetDataModelProvider.java:111) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.adjustLibraryProviders(JpaFacetDataModelProvider.java:391) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.propertySet(JpaFacetDataModelProvider.java:295) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetInstallDataModelProvider.propertySet(JpaFacetInstallDataModelProvider.java:143) ~[na:na]
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelImpl.internalSetProperty(DataModelImpl.java:182) ~[na:na]
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelImpl.setProperty(DataModelImpl.java:172) ~[na:na]
+	at org.eclipse.wst.common.componentcore.datamodel.FacetDataModelConfigAdapter.setProjectFacetVersion(FacetDataModelConfigAdapter.java:42) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.bindProjectFacetActionConfig(FacetedProjectWorkingCopy.java:1529) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.createProjectFacetAction(FacetedProjectWorkingCopy.java:1464) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.refreshProjectFacetActions(FacetedProjectWorkingCopy.java:1558) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.setProjectFacets(FacetedProjectWorkingCopy.java:777) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.addProjectFacet(FacetedProjectWorkingCopy.java:807) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:301) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configureFacets(JpaProjectConfigurator.java:152) ~[na:na]
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:108) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:508) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:439) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:352) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:349) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-04-23 17:35:41,879 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JPA-Relacionamento-Exercicio/src
+2018-04-23 17:35:41,886 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JPA-Relacionamento-Exercicio/src/test/java because it overlaps with /JPA-Relacionamento-Exercicio/src
+2018-04-23 17:36:03,071 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 39 sec
+2018-04-23 17:36:09,610 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:09,647 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 17:36:09,727 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:09,762 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-04-23 17:36:14,748 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:15,273 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 17:36:15,418 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:15,455 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-Exercicio-JPQL\src\test\resources
+2018-04-23 17:36:16,986 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:17,304 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\main\resources
+2018-04-23 17:36:17,317 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:17,352 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\test\resources
+2018-04-23 17:36:19,049 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:19,683 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\main\resources
+2018-04-23 17:36:19,694 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:19,723 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\test\resources
+2018-04-23 17:36:21,518 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:21,551 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\main\resources
+2018-04-23 17:36:21,559 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:21,583 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\test\resources
+2018-04-23 17:36:25,020 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:25,353 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\main\resources
+2018-04-23 17:36:25,361 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:25,386 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\test\resources
+2018-04-23 17:36:27,045 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:27,074 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\main\resources
+2018-04-23 17:36:27,082 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:27,107 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\test\resources
+2018-04-23 17:36:28,756 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:28,881 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\main\resources
+2018-04-23 17:36:28,892 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:28,922 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\test\resources
+2018-04-23 17:36:32,942 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:32,976 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\main\resources
+2018-04-23 17:36:32,983 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:33,322 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\test\resources
+2018-04-23 17:36:35,912 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:35,939 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\main\resources
+2018-04-23 17:36:35,947 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:35,971 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\test\resources
+2018-04-23 17:36:38,991 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:39,319 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\main\resources
+2018-04-23 17:36:39,327 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-23 17:36:39,352 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\test\resources
+2018-04-23 21:19:14,300 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-02 18:59:14,061 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-02 19:02:49,531 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:02:50,322 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-02 19:02:53,291 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:02:53,342 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-05-02 19:03:06,112 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:06,772 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-02 19:03:08,903 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:09,244 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-Exercicio-JPQL\src\test\resources
+2018-05-02 19:03:16,126 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:16,502 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\main\resources
+2018-05-02 19:03:16,504 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:16,859 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\test\resources
+2018-05-02 19:03:25,465 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:25,827 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\main\resources
+2018-05-02 19:03:25,829 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:26,193 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\test\resources
+2018-05-02 19:03:37,426 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:38,066 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\main\resources
+2018-05-02 19:03:38,067 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:38,723 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\test\resources
+2018-05-02 19:03:47,574 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:47,884 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\main\resources
+2018-05-02 19:03:47,891 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:48,258 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\test\resources
+2018-05-02 19:03:57,978 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:58,340 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\main\resources
+2018-05-02 19:03:58,348 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:03:59,632 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\test\resources
+2018-05-02 19:04:04,254 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:04:04,603 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\main\resources
+2018-05-02 19:04:04,611 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:04:04,911 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\test\resources
+2018-05-02 19:04:10,675 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:04:10,999 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\main\resources
+2018-05-02 19:04:11,007 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:04:11,298 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\test\resources
+2018-05-02 19:04:17,368 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:04:18,018 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\main\resources
+2018-05-02 19:04:18,026 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:04:18,059 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\test\resources
+2018-05-02 19:04:25,642 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:04:25,667 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\main\resources
+2018-05-02 19:04:25,674 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-02 19:04:26,015 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\test\resources
+2018-05-07 19:10:42,643 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-07 19:11:25,680 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:11:27,478 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-07 19:11:28,489 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:11:28,552 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-05-07 19:11:42,487 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:11:42,791 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-07 19:11:42,801 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:11:42,924 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-Exercicio-JPQL\src\test\resources
+2018-05-07 19:12:05,710 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:06,500 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\main\resources
+2018-05-07 19:12:06,503 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:06,852 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\test\resources
+2018-05-07 19:12:11,694 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:11,717 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\main\resources
+2018-05-07 19:12:11,718 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:12,398 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\test\resources
+2018-05-07 19:12:15,511 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:16,155 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\main\resources
+2018-05-07 19:12:16,156 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:16,494 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\test\resources
+2018-05-07 19:12:22,364 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:23,301 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\main\resources
+2018-05-07 19:12:23,310 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:23,634 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\test\resources
+2018-05-07 19:12:30,740 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:32,010 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\main\resources
+2018-05-07 19:12:32,018 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:32,997 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\test\resources
+2018-05-07 19:12:39,507 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:40,485 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\main\resources
+2018-05-07 19:12:40,494 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:41,088 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\test\resources
+2018-05-07 19:12:44,656 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:44,981 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\main\resources
+2018-05-07 19:12:44,988 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:45,044 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\test\resources
+2018-05-07 19:12:47,309 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:48,342 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\main\resources
+2018-05-07 19:12:48,349 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:49,019 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\test\resources
+2018-05-07 19:12:53,380 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:54,055 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\main\resources
+2018-05-07 19:12:54,373 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:12:54,401 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\test\resources
+2018-05-07 19:14:10,545 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-07 19:14:17,301 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 01-Exercicio-IntroducaoJPA:01-Exercicio-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\03-Exercicio-Relacionamentos\pom.xml.
+2018-05-07 19:14:17,427 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 01-Exercicio-IntroducaoJPA:01-Exercicio-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\04-Exercicio-JPQL\pom.xml.
+2018-05-07 19:14:18,789 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 04-JPA-Introcucao:04-JPA-Introcucao:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\04-JPA-Introcucao\pom.xml.
+2018-05-07 19:14:18,883 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 05-JPA-API:05-JPA-API:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\05-JPA-API\pom.xml.
+2018-05-07 19:14:18,974 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-DesignPatterns:06-JPA-DesignPatterns:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\06-JPA-DesignPatterns\pom.xml.
+2018-05-07 19:14:19,044 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-JPQL-Apostila:06-JPA-JPQL-Apostila:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\06-JPA-JPQL-Apostila\pom.xml.
+2018-05-07 19:14:19,122 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 07-JPA-Relacionamentos:07-JPA-Relacionamentos:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\07-JPA-Relacionamentos\pom.xml.
+2018-05-07 19:14:19,249 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Exercicio01-IntroducaoJPA:Exercicio01-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\pom.xml.
+2018-05-07 19:14:19,323 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Exercicio02-IntroducaoJPA:Exercicio02-IntroducaoJPA:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\Exercicio02-Design Patterns\pom.xml.
+2018-05-07 19:14:19,396 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 06-JPA-DesignPatterns:06-JPA-DesignPatterns:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\JPA-MapeamentoAvancado\pom.xml.
+2018-05-07 19:14:19,491 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 07-JPA-Relacionamentos:07-JPA-Relacionamentos:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\pom.xml.
+2018-05-07 19:14:27,796 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /03-Exercicio-Relacionamentos/src
+2018-05-07 19:14:27,804 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /03-Exercicio-Relacionamentos/src overlaps with sources folder /03-Exercicio-Relacionamentos/src
+2018-05-07 19:14:27,814 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /03-Exercicio-Relacionamentos/src/test/java because it overlaps with /03-Exercicio-Relacionamentos/src
+2018-05-07 19:14:28,534 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-Exercicio-JPQL/src
+2018-05-07 19:14:28,535 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /04-Exercicio-JPQL/src overlaps with sources folder /04-Exercicio-JPQL/src
+2018-05-07 19:14:28,537 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /04-Exercicio-JPQL/src/test/java because it overlaps with /04-Exercicio-JPQL/src
+2018-05-07 19:14:28,854 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-JPA-Introcucao/src
+2018-05-07 19:14:28,861 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /04-JPA-Introcucao/src/test/java because it overlaps with /04-JPA-Introcucao/src
+2018-05-07 19:14:31,398 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05-JPA-API/src
+2018-05-07 19:14:31,406 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /05-JPA-API/src/test/java because it overlaps with /05-JPA-API/src
+2018-05-07 19:14:32,200 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-JPA-DesignPatterns/src
+2018-05-07 19:14:32,206 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /06-JPA-DesignPatterns/src/test/java because it overlaps with /06-JPA-DesignPatterns/src
+2018-05-07 19:14:33,161 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-JPA-JPQL-Apostila/src
+2018-05-07 19:14:33,173 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /06-JPA-JPQL-Apostila/src/test/java because it overlaps with /06-JPA-JPQL-Apostila/src
+2018-05-07 19:14:33,572 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-JPA-Relacionamentos/src
+2018-05-07 19:14:33,578 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /07-JPA-Relacionamentos/src/test/java because it overlaps with /07-JPA-Relacionamentos/src
+2018-05-07 19:14:33,919 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Exercicio01-IntroducaoJPA/src
+2018-05-07 19:14:33,924 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Exercicio01-IntroducaoJPA/src/test/java because it overlaps with /Exercicio01-IntroducaoJPA/src
+2018-05-07 19:14:36,119 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Exercicio02-Design Patterns/src
+2018-05-07 19:14:36,127 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Exercicio02-Design Patterns/src/test/java because it overlaps with /Exercicio02-Design Patterns/src
+2018-05-07 19:14:37,716 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JPA-MapeamentoAvancado/src
+2018-05-07 19:14:37,723 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JPA-MapeamentoAvancado/src/test/java because it overlaps with /JPA-MapeamentoAvancado/src
+2018-05-07 19:14:39,955 [Worker-16] WARN  o.e.m.c.p.c.AbstractLifecycleMapping - Could not update project JPA-MapeamentoAvancado configuration
+org.eclipse.core.runtime.AssertionFailedException: null argument:
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:85) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:73) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.expressions.EvaluationContext.addVariable(EvaluationContext.java:105) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.internal.LibraryProvider.isEnabledFor(LibraryProvider.java:273) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.LibraryInstallDelegate.refresh(LibraryInstallDelegate.java:364) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.LibraryInstallDelegate.reset(LibraryInstallDelegate.java:450) ~[na:na]
+	at org.eclipse.jst.common.project.facet.core.libprov.LibraryInstallDelegate.<init>(LibraryInstallDelegate.java:138) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.buildDefaultLibraryProvider(JpaFacetDataModelProvider.java:237) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.getDefaultLibraryProvider(JpaFacetDataModelProvider.java:209) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.getDefaultProperty(JpaFacetDataModelProvider.java:174) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetInstallDataModelProvider.getDefaultProperty(JpaFacetInstallDataModelProvider.java:84) ~[na:na]
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelImpl.getProperty(DataModelImpl.java:130) ~[na:na]
+	at org.eclipse.wst.common.frameworks.datamodel.AbstractDataModelProvider.getProperty(AbstractDataModelProvider.java:218) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.getLibraryInstallDelegate(JpaFacetDataModelProvider.java:111) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.adjustLibraryProviders(JpaFacetDataModelProvider.java:391) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetDataModelProvider.propertySet(JpaFacetDataModelProvider.java:295) ~[na:na]
+	at org.eclipse.jpt.jpa.core.internal.facet.JpaFacetInstallDataModelProvider.propertySet(JpaFacetInstallDataModelProvider.java:143) ~[na:na]
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelImpl.internalSetProperty(DataModelImpl.java:182) ~[na:na]
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelImpl.setProperty(DataModelImpl.java:172) ~[na:na]
+	at org.eclipse.wst.common.componentcore.datamodel.FacetDataModelConfigAdapter.setProjectFacetVersion(FacetDataModelConfigAdapter.java:42) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.bindProjectFacetActionConfig(FacetedProjectWorkingCopy.java:1529) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.createProjectFacetAction(FacetedProjectWorkingCopy.java:1464) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.refreshProjectFacetActions(FacetedProjectWorkingCopy.java:1558) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.setProjectFacets(FacetedProjectWorkingCopy.java:777) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.addProjectFacet(FacetedProjectWorkingCopy.java:807) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:301) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configureFacets(JpaProjectConfigurator.java:152) ~[na:na]
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:108) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:508) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:439) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:352) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:349) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-05-07 19:14:40,340 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JPA-Relacionamento-Exercicio/src
+2018-05-07 19:14:40,347 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JPA-Relacionamento-Exercicio/src/test/java because it overlaps with /JPA-Relacionamento-Exercicio/src
+2018-05-07 19:15:05,830 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 55 sec
+2018-05-07 19:15:14,548 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:14,823 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-07 19:15:14,914 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:14,943 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-05-07 19:15:18,766 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:19,039 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-07 19:15:19,133 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:19,159 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-Exercicio-JPQL\src\test\resources
+2018-05-07 19:15:20,159 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:20,193 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\main\resources
+2018-05-07 19:15:20,201 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:20,231 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\04-JPA-Introcucao\src\test\resources
+2018-05-07 19:15:23,502 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:23,843 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\main\resources
+2018-05-07 19:15:23,852 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:23,882 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\05-JPA-API\src\test\resources
+2018-05-07 19:15:26,782 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:27,123 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\main\resources
+2018-05-07 19:15:27,129 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:27,154 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-DesignPatterns\src\test\resources
+2018-05-07 19:15:30,749 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:30,778 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\main\resources
+2018-05-07 19:15:30,789 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:30,813 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\06-JPA-JPQL-Apostila\src\test\resources
+2018-05-07 19:15:38,911 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:39,203 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\main\resources
+2018-05-07 19:15:39,210 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:39,247 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\07-JPA-Relacionamentos\src\test\resources
+2018-05-07 19:15:40,860 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:40,916 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\main\resources
+2018-05-07 19:15:40,923 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:40,949 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio01-IntroducaoJPA\src\test\resources
+2018-05-07 19:15:45,017 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:45,043 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\main\resources
+2018-05-07 19:15:45,051 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:45,073 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\Exercicio02-Design Patterns\src\test\resources
+2018-05-07 19:15:48,151 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:48,472 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\main\resources
+2018-05-07 19:15:48,481 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:48,510 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-MapeamentoAvancado\src\test\resources
+2018-05-07 19:15:50,593 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:50,623 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\main\resources
+2018-05-07 19:15:50,631 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-07 19:15:50,658 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\test\resources
