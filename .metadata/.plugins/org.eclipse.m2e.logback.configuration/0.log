@@ -13972,3 +13972,486 @@ C_ª€ç*(X=:˝í8S˙Jf∞Õóöt¯j32;Gg¸ÿ¢…ËèwJ}Ì#Öœ˜Ù2;∏'˙¥®à‡ ∆˜ÿ“â?~¶7lüÎç⁄í~Œøä
 2018-05-22 07:51:26,646 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\main\resources
 2018-05-22 07:51:26,649 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-05-22 07:51:26,662 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\JPA-Relacionamento-Exercicio\src\test\resources
+2018-05-22 08:00:57,916 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 12-NAC-Correcao:12-NAC-Correcao:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\12-NAC-Correcao\pom.xml.
+2018-05-22 08:01:00,759 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /12-NAC-Correcao/src
+2018-05-22 08:01:00,769 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /12-NAC-Correcao/src/test/java because it overlaps with /12-NAC-Correcao/src
+2018-05-22 08:01:30,084 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:01:30,139 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:01:30,141 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:01:30,150 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:01:30,571 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-22 08:01:30,611 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 12-NAC-Correcao:12-NAC-Correcao:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\12-NAC-Correcao\pom.xml.
+2018-05-22 08:01:31,341 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /12-NAC-Correcao/src
+2018-05-22 08:01:31,342 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /12-NAC-Correcao/src/test/java because it overlaps with /12-NAC-Correcao/src
+2018-05-22 08:01:31,526 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:01:31,540 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:01:31,541 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:01:31,551 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:01:31,974 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-05-22 08:01:32,127 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:01:32,141 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:01:32,142 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:01:32,152 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:02:40,700 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 12-NAC-Correcao:12-NAC-Correcao:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\12-NAC-Correcao\pom.xml.
+2018-05-22 08:02:41,826 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:02:41,841 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:02:41,843 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:02:41,854 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:04:09,886 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 12-NAC-Correcao:12-NAC-Correcao:0.0.1-SNAPSHOT @ E:\Enterprise Application Development\12-NAC-Correcao\pom.xml.
+2018-05-22 08:04:10,674 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:04:10,689 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:04:10,691 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:04:10,702 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:04:12,696 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:04:12,710 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:04:12,711 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:04:12,725 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:04:33,006 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:04:33,062 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:04:33,062 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:04:33,102 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:05:52,495 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:05:52,507 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:05:52,508 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:05:52,517 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:06:04,208 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:06:04,220 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:06:04,221 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:06:04,548 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:06:48,795 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:06:48,806 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:06:48,807 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:06:48,817 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:06:52,314 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:06:52,328 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:06:52,329 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:06:52,339 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:07:31,495 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:07:31,511 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:07:31,512 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:07:31,521 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:07:34,093 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:07:34,104 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:07:34,105 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:07:34,115 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:09:15,971 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:09:15,996 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:09:15,998 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:09:16,009 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:09:25,113 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:09:25,127 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:09:25,128 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:09:25,137 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:11:32,617 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:11:32,632 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:11:32,633 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:11:32,643 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:13:35,850 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:13:35,927 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:13:35,929 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:13:35,938 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:13:39,119 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:13:39,135 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:13:39,136 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:13:39,146 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:15:15,310 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:15:15,322 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:15:15,322 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:15:15,331 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:19:37,540 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:19:37,562 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:19:37,563 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:19:37,573 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:19:50,185 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:19:50,199 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:19:50,200 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:19:50,210 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:20:22,381 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:20:22,445 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:20:22,445 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:20:22,456 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:20:52,182 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:20:52,196 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:20:52,198 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:20:52,208 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:22:02,363 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:22:02,377 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:22:02,378 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:22:02,389 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:22:35,599 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:22:35,613 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:22:35,614 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:22:35,623 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:22:48,340 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:22:48,353 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:22:48,354 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:22:48,364 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:23:16,026 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:23:16,042 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:23:16,043 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:23:16,052 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:25:18,778 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:25:18,870 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:25:18,872 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:25:18,881 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:27:33,123 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:27:33,141 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:27:33,142 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:27:33,151 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:29:20,371 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:29:20,384 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:29:20,385 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:29:20,396 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:29:45,952 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:29:45,965 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:29:45,966 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:29:45,976 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:31:13,871 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:31:13,894 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:31:13,896 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:31:13,907 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:31:36,486 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:31:36,498 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:31:36,499 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:31:36,508 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:32:18,897 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:32:18,913 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:32:18,914 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:32:18,924 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:34:38,905 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:34:38,919 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:34:38,919 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:34:38,928 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:38:23,198 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:38:23,266 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:38:23,267 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:38:23,276 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:38:25,387 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:38:25,403 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:38:25,404 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:38:25,413 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:38:27,338 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:38:27,350 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:38:27,350 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:38:27,377 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:39:23,172 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:39:23,219 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:39:23,220 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:39:23,232 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:41:30,328 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:41:30,342 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:41:30,343 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:41:30,353 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:41:50,657 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:41:50,670 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:41:50,671 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:41:50,682 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:42:18,620 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:42:18,635 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:42:18,636 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:42:18,645 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:43:07,730 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:43:07,743 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:43:07,744 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:43:07,753 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:43:47,084 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:43:47,096 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:43:47,097 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:43:47,106 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:45:58,908 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:45:58,922 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:45:58,922 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:45:58,932 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:46:16,960 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:46:16,975 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:46:16,977 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:46:16,986 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:50:01,844 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:50:01,856 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:50:01,856 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:50:01,866 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:50:06,983 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:50:06,999 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:50:07,001 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:50:07,011 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:50:10,720 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:50:10,730 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:50:10,731 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:50:10,740 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:51:09,572 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:51:09,604 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:51:09,605 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:51:09,614 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:53:08,081 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:53:08,095 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:53:08,096 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:53:08,106 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:54:28,646 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:54:28,658 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:54:28,659 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:54:28,669 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:54:30,833 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:54:30,845 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:54:30,845 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:54:30,855 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:54:55,637 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:54:55,650 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:54:55,651 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:54:55,660 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:55:16,623 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:55:16,635 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:55:16,636 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:55:16,645 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:55:27,615 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:55:27,631 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:55:27,632 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:55:27,641 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:55:50,177 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:55:50,189 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:55:50,190 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:55:50,199 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:56:55,863 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:56:55,863 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:56:55,878 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:56:55,878 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:59:23,886 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:59:23,901 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:59:23,901 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:59:23,917 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 08:59:27,058 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:59:27,058 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 08:59:27,058 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 08:59:27,074 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:00:15,136 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:00:15,167 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:00:15,183 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:00:15,183 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:00:23,105 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:00:23,121 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:00:23,121 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:00:23,136 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:01:34,980 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:01:34,996 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:01:34,996 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:01:34,996 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:02:45,189 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:02:45,205 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:02:45,206 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:02:45,216 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:03:40,558 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:03:40,558 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:03:40,558 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:03:40,573 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:04:29,200 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:04:29,216 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:04:29,216 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:04:29,232 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:05:56,706 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:05:56,721 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:05:56,721 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:05:56,721 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:06:47,428 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:06:47,490 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:06:47,506 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:06:47,521 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:07:08,503 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:07:08,519 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:07:08,519 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:07:08,535 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:07:21,321 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:07:21,352 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:07:21,352 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:07:21,383 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:07:36,352 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:07:36,367 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:07:36,367 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:07:36,367 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:07:53,435 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:07:53,505 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:07:53,505 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:07:53,536 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:08:14,030 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:08:14,030 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:08:14,030 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:08:14,046 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:08:43,754 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:08:43,768 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:08:43,769 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:08:43,778 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:08:59,145 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:08:59,146 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:08:59,146 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:08:59,458 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:09:13,300 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:09:13,331 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:09:13,331 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:09:13,376 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:09:53,114 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:09:53,129 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:09:53,129 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:09:53,145 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:11:01,290 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:01,321 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:11:01,352 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:01,371 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:11:04,953 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:04,968 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:11:04,968 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:04,984 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:11:07,504 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:07,519 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:11:07,519 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:07,519 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:11:23,016 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:23,047 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:11:23,047 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:23,094 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:11:43,212 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:43,227 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:11:43,227 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:43,245 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:11:51,023 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:51,039 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:11:51,039 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:11:51,101 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:12:13,286 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:12:13,302 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:12:13,302 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:12:13,317 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:12:16,424 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:12:16,455 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:12:16,471 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:12:16,471 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:12:26,545 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:12:26,566 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:12:26,567 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:12:26,577 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:12:35,775 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:12:35,791 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:12:35,791 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:12:35,791 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:13:06,927 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:13:06,943 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:13:06,943 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:13:06,959 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:13:10,471 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:13:10,471 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:13:10,471 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:13:10,487 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:13:15,118 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:13:15,133 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:13:15,133 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:13:15,149 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:13:19,813 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:13:19,828 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:13:19,828 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:13:19,831 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:17:37,724 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:17:37,755 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:17:37,755 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:17:37,775 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:18:30,976 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:18:30,991 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:18:30,991 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:18:31,007 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:22:28,967 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:22:28,983 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:22:28,983 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:22:28,999 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:25:10,279 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:25:10,310 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:25:10,310 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:25:10,310 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:25:26,113 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:25:26,175 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:25:26,175 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:25:26,175 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:25:27,457 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:25:27,473 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:25:27,473 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:25:27,473 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:26:09,443 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:26:09,443 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:26:09,443 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:26:09,458 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:27:23,349 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:27:23,365 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:27:23,365 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:27:23,365 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 09:29:08,692 [Worker-80] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.12.Final/hibernate-core-5.2.12.Final-sources.jar
+2018-05-22 09:29:09,035 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.12.Final/hibernate-core-5.2.12.Final-sources.jar
+2018-05-22 09:29:12,994 [Worker-80] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.12.Final/hibernate-core-5.2.12.Final-sources.jar
+2018-05-22 09:29:13,025 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.12.Final/hibernate-core-5.2.12.Final-sources.jar
+2018-05-22 09:29:13,728 [Worker-80] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:5.2.12.Final
+2018-05-22 09:29:14,423 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:29:14,470 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-22 09:29:14,501 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:29:14,532 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\03-Exercicio-Relacionamentos\src\test\resources
+2018-05-22 09:31:21,601 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:31:21,611 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 09:31:21,612 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 09:31:21,621 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:05:05,755 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:05:05,770 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:05:05,770 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:05:05,770 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:09:13,313 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:09:13,329 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:09:13,329 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:09:13,345 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:11:19,104 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:11:19,120 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:11:19,120 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:11:19,135 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:11:50,984 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:11:51,000 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:11:51,000 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:11:51,015 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:21:55,999 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:21:55,999 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:21:56,015 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:21:56,015 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:22:19,875 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:22:19,922 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:22:19,922 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:22:19,937 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:28:02,065 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:28:02,391 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:28:02,393 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:28:02,718 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:29:03,475 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:29:03,491 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:29:03,491 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:29:03,506 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:32:18,218 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:32:18,233 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:32:18,233 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:32:18,249 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:32:24,638 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:32:24,654 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:32:24,654 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:32:24,670 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:33:58,679 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:33:58,694 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:33:58,696 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:33:58,730 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:35:38,565 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:35:38,574 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:35:38,575 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:35:38,585 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:35:46,613 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:35:46,628 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:35:46,628 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:35:46,638 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:35:51,620 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:35:51,635 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:35:51,637 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:35:51,647 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:41:52,795 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:41:52,809 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:41:52,809 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:41:52,820 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources
+2018-05-22 10:42:04,695 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:42:04,707 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\main\resources
+2018-05-22 10:42:04,707 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-22 10:42:04,716 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Enterprise Application Development\12-NAC-Correcao\src\test\resources

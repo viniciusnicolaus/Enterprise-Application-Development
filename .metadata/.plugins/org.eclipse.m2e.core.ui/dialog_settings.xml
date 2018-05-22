@@ -44,6 +44,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="12-NAC-Correcao"/>
 			<item value="04-Exercicio-JPQL"/>
 			<item value="Exercicio02-IntroducaoJPA"/>
 			<item value="05-JPA-API"/>
@@ -54,6 +55,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="12-NAC-Correcao"/>
 			<item value="04-Exercicio-JPQL"/>
 			<item value="Exercicio02-IntroducaoJPA"/>
 			<item value="05-JPA-API"/>
