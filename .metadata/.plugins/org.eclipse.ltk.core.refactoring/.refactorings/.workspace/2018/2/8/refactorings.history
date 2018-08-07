@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;04-JPA-Introducao&apos;" deleteContents="false" description="Delete resource &apos;04-JPA-Introducao&apos;" element1="/04-JPA-Introducao" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1519126547828"/>
-</session>
